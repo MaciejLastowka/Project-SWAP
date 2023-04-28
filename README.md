@@ -1,5 +1,6 @@
 # SWAP
-A web application used for product authenticity verification
+<br>
+A web application used for product authenticity verification.
 ![image](https://user-images.githubusercontent.com/120501693/235199590-942fd302-2666-4520-874a-718aedef9ff6.png)
 <br>
 <h2 style="font-weight:bold; font-size:1.2em;">Technologies Used </h2>
